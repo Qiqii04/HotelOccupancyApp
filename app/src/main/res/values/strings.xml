@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">DMT22113N_Assignment1</string>
+    
+    <string name="title">Enter the occupancy rate for each floor</string>
+    <string name="select_floor">Select the floor:</string>
+    <string name="num_occupied_rooms">Number of occupied rooms:</string>
+    <string name="num_rooms">Number of rooms = 30 </string>
+    <string name="save">Save</string>
+
+    <string name="prompt">Select Floor</string>
+    <string-array name="floor">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+    <string name="title2">Floor Occupancy Data</string>
+    <string name="total">Total Rooms Occupied:</string>
+    <string name="overall_rate">Overall Occupancy Rate:</string>
+    <string name="restart">Restart</string>
+    <string name="exit">Exit</string>
+
+    <string name="error_empty">Please fill in the blank</string>
+    <string name="error_max">Number of occupied rooms cannot exceeds 30</string>
+    <string name="error_int">Please fill in only numbers</string>
+
+</resources>
